@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     },
     logo: {
         marginBottom: 16,
-        width: 150, // Set width as a percentage of the container for responsiveness
+        width: '100%', // Set width as a percentage of the container for responsiveness
         height: 150, // Let the height be adjusted according to the width
         aspectRatio: 2, // Maintain a specific aspect ratio (width: height)
     },
